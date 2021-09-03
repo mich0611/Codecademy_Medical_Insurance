@@ -1,6 +1,6 @@
 US Medical Insurance Project.  		time : 2021/8/25
 ------------------------------
-a. Data comes from insurance.csv
+a. Data comes from insurance.csv, and I work on it though jupyter notebook.
 
 b. Some possible ideas for analysis are the following : 
 
